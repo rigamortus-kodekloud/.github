@@ -1,0 +1,10 @@
+{
+    "name": "Organization Starter Workflow",
+    "description": "Octo Organization CI starter workflow.",
+    "categories": [
+        "NPM Config"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
